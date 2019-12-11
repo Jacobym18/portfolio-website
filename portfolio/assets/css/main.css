@@ -8601,3 +8601,13 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+			.inner{
+				display: none;
+			}
+			.gallerystyle2mediumlightboxonscroll-fade-in{
+				display: none;
+			}
+			.footer{		
+				margin: 3% 42%;
+			}
+			
